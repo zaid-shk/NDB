@@ -18,21 +18,21 @@ const slides = [
     heading: "Azadari Ka Alampan",
     description: "Aapki awaaz, aapka haq",
     btnText: "Hamaara Vision",
-    btnLink: "/vision",
+    btnLink: "/about",
   },
   {
     img: HeroImg3,
     heading: "Naye Nandurbar Ki Ore",
     description: "Taraqqi aur insaaf ke liye ek naya safar",
     btnText: "Join Karein",
-    btnLink: "/join",
+    btnLink: "/about",
   },
   {
     img: HeroImg4,
     heading: "Awam Ki Khidmat",
     description: "Har masle ka hal, aapke darwaaze par",
     btnText: "Contact Karein",
-    btnLink: "/contact",
+    btnLink: "/about",
   },
 ];
 
