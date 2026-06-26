@@ -12,11 +12,11 @@ export default defineConfig({
       registerType: "autoUpdate",
       includeAssets: ["/Aimim-logo.png", "robots.txt"],
       manifest: {
-        name: "My React App",
-        short_name: "ReactApp",
-        description: "My React PWA",
-        theme_color: "#ffffff",
-        background_color: "#ffffff",
+        name: "AIMIM Nandurbar",
+        short_name: "AIMIM",
+        description: "Majlis Nandurbar",
+        theme_color: "#000",
+        background_color: "#000",
         display: "standalone",
         start_url: "/",
         icons: [
